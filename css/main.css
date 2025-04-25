@@ -50,23 +50,19 @@
 
 .btn-wrapper {
   background-color: var(--btn-wrapper-bg);
-  padding: 50px;
+  
 }
 
 .btn-primary {
   background-color: var(--primary);
-  padding: 20px;
-  border: 2px solid transparent;
-  color: white;
 }
+
 .btn-primary:hover {
   background-color: var(--btn-primary-hover);
 }
 .btn-secondary {
   background-color: var(--secondary);
-  padding: 20px;
-  border: 2px solid transparent;
-  color: white;
+
 }
 .btn-secondary:hover {
   background-color: var(--btn-secondary-hover);
@@ -75,8 +71,6 @@
   background-color: transparent;
   border: 2px solid;
   border-color: var(--btn-border-color);
-  padding: 20px;
-  color: white;
 }
 .btn-outline:hover {
   background-color: var(--btn-border-color);
@@ -85,9 +79,7 @@
 }
 .btn-custom {
   background-color: var(--btn-custom-bg);
-  padding: 20px;
-  border: 2px solid transparent;
-  color: white;
+
 }
 .btn-custom:hover {
   background-color: var(--btn-custom-hover);
